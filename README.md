@@ -5,7 +5,7 @@ Repository Consist of Two Programs created for CSC500-1 Module 5:
 - **#2 Book Club Award Points Calculator**
   
 **#1 Rainfall Calculator:**
-\n The program serves as a calculator to determine the average rainfall for a given number of years when provided with the rainfall amounts for each month within the year. 
+The program serves as a calculator to determine the average rainfall for a given number of years when provided with the rainfall amounts for each month within the year. 
 
 **Start Here: Install & Run**
 1.	Clone/Download the repository: Mod4.py script 
