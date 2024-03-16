@@ -1,0 +1,66 @@
+AVERAGE RAINFALL CALCULATOR
+----------------
+
+Enter the amount of years: 
+2
+----------------
+Year 1
+----------------
+How many inches did it rain for year 1, month 1 (January)? 
+1
+How many inches did it rain for year 1, month 2 (February)? 
+2
+How many inches did it rain for year 1, month 3 (March)? 
+3
+How many inches did it rain for year 1, month 4 (April)? 
+5
+How many inches did it rain for year 1, month 5 (May)? 
+6
+How many inches did it rain for year 1, month 6 (June)? 
+7
+How many inches did it rain for year 1, month 7 (July)? 
+5
+How many inches did it rain for year 1, month 8 (August)? 
+3
+How many inches did it rain for year 1, month 9 (September)? 
+2
+How many inches did it rain for year 1, month 10 (October)? 
+1
+How many inches did it rain for year 1, month 11 (November)? 
+3
+How many inches did it rain for year 1, month 12 (December)? 
+5
+----------------
+Year 2
+----------------
+How many inches did it rain for year 2, month 1 (January)? 
+3
+How many inches did it rain for year 2, month 2 (February)? 
+2
+How many inches did it rain for year 2, month 3 (March)? 
+1
+How many inches did it rain for year 2, month 4 (April)? 
+3
+How many inches did it rain for year 2, month 5 (May)? 
+4
+How many inches did it rain for year 2, month 6 (June)? 
+5
+How many inches did it rain for year 2, month 7 (July)? 
+6
+How many inches did it rain for year 2, month 8 (August)? 
+4
+How many inches did it rain for year 2, month 9 (September)? 
+3
+How many inches did it rain for year 2, month 10 (October)? 
+2
+How many inches did it rain for year 2, month 11 (November)? 
+1
+How many inches did it rain for year 2, month 12 (December)? 
+2
+The total number of months is:  24
+The total inches of rainfall is:  36.0
+The average rainfall per month for the entire period is:  1.5
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal

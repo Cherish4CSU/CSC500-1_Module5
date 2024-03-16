@@ -1,0 +1,37 @@
+
+-------------------------------------
+CSU BOOK CLUB AWARD POINTS CALCULATOR
+-------------------------------------
+How many books did you purchase this month? 
+4
+You earned 15 CSU Book Club Award Points this month.
+Good work! Purchase 6 books or more in a month to earn even more award points!
+
+Type e to exit or r to restart
+r
+
+-------------------------------------
+CSU BOOK CLUB AWARD POINTS CALCULATOR
+-------------------------------------
+How many books did you purchase this month? 
+2
+You earned 5 CSU Book Club Award Points this month.
+Great start! Purchase 4 books or more in a month to earn some more award points!
+
+Type e to exit or r to restart
+r
+
+-------------------------------------
+CSU BOOK CLUB AWARD POINTS CALCULATOR
+-------------------------------------
+How many books did you purchase this month? 
+8
+You earned 60 CSU Book Club Award Points this month.
+Book Superstar!! You earned the max amount of award points this month. See you next month!
+
+Type e to exit or r to restart
+e
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
