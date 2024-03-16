@@ -1,8 +1,8 @@
 **Note:** This repsitory is for python programs created for ademic purposes only.
 
 Repository Consist of Two Programs created for CSC500-1 Module 5:
-**#1 Rainfall Calculator**
-**#2 Book Club Award Points Calculator**
+- **#1 Rainfall Calculator**
+- **#2 Book Club Award Points Calculator**
   
 **#1 Rainfall Calculator:**
 The program serves as a calculator to determine the average rainfall for a given number of years when provided with the rainfall amounts for each month within the year. 
